@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.walkintubscalifornia.com/sitemap.xml
+Sitemap: https://walkintubscalifornia.com/sitemap.xml
