@@ -1616,7 +1616,7 @@
         <p class="formTitle">Get Pricing &amp; Availability in Your Area</p>
         <p class="formSubtitle">Complete the form and a friendly Aging Safely Baths specialist will reach out — typically within one business day.</p>
 
-        <form id="quoteForm" aria-label="Walk in tub quote form">
+        <form id="quoteForm" aria-label="Walk in tub quote form"><div style="position:absolute;left:-9999px;top:-9999px;opacity:0;pointer-events:none;" aria-hidden="true"><label>Leave this empty<input type="text" name="_honey" tabindex="-1" autocomplete="off"></label></div>
           <input type="hidden" name="source_site" value="walkintubscalifornia.com" />
           <div class="formGrid">
             <div class="formGroup">
@@ -1929,7 +1929,7 @@
     </div>
     <div class="modal-body">
       <p style="margin:0 0 0.9rem; font-size:0.88rem;">Share the basics below and we'll follow up with options for your California home.</p>
-      <form id="modal-quote-form">
+      <form id="modal-quote-form"><div style="position:absolute;left:-9999px;top:-9999px;opacity:0;pointer-events:none;" aria-hidden="true"><label>Leave this empty<input type="text" name="_honey" tabindex="-1" autocomplete="off"></label></div>
         <input type="hidden" name="source_site" value="walkintubscalifornia.com-modal" />
         <div class="formGroup" style="margin-bottom:0.6rem;">
           <label for="m-name">Name*</label>
@@ -1972,6 +1972,7 @@
   document.addEventListener("DOMContentLoaded", function () {
 
     emailjs.init({ publicKey: "alWutsHLG6c3h9P2j" });
+    var loadedAt = Date.now();
 
     /* ---- Main Form ---- */
     var mainForm = document.getElementById("quoteForm");
@@ -1980,6 +1981,8 @@
     if (mainForm) {
       mainForm.addEventListener("submit", function (e) {
         e.preventDefault();
+        if (mainForm._honey && mainForm._honey.value) { return; }
+        if (Date.now() - loadedAt < 3000) { mainStatus.textContent = "Please take a moment to check your details, then press send again."; mainStatus.className = "error"; return; }
         mainStatus.textContent = "Sending your request…";
         mainStatus.className = "";
 
@@ -2004,6 +2007,8 @@
     if (modalForm) {
       modalForm.addEventListener("submit", function (e) {
         e.preventDefault();
+        if (modalForm._honey && modalForm._honey.value) { return; }
+        if (Date.now() - loadedAt < 3000) { modalStatus.textContent = "Please take a moment to check your details, then press send again."; modalStatus.className = "error"; return; }
         modalStatus.textContent = "Sending…";
         modalStatus.className = "";
 

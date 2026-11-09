@@ -5,6 +5,7 @@
   if (!form) return;
   var status = document.getElementById('formStatus');
   var ready = false;
+  var loadedAt = Date.now();
   function init() {
     if (ready || !window.emailjs) return ready;
     window.emailjs.init({ publicKey: 'alWutsHLG6c3h9P2j' });
@@ -15,6 +16,11 @@
     e.preventDefault();
     var hp = form.querySelector('input[name="_honey"]');
     if (hp && hp.value) { return; }
+    if (Date.now() - loadedAt < 3000) {
+      status.textContent = 'Please take a moment to check your details, then press send again.';
+      status.className = 'formStatus err';
+      return;
+    }
     var zip = form.querySelector('input[name="user_zip"]');
     if (zip && !/^9\d{4}$/.test(zip.value.trim())) {
       status.textContent = 'Please enter a 5-digit California ZIP code (they start with 9).';
