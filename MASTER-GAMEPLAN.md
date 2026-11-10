@@ -40,3 +40,11 @@ Aging Safely Baths & More, LLC. 1-888-779-2284, sales@agingsafelybaths.com. BBB 
 
 ## Measurement
 GA4 property per site (account 45765285), key events generate_lead and phone_click. Search Console: bare domain property, sitemap.xml submitted. Check queries and positions in GA4's Search Console report at the start of every project.
+
+## 2026-11-10 (overnight, branch seo-leads-2026-11-10, not pushed)
+Based on GSC Oct 25 to Nov 8: san jose 43 impr pos 16.7, san diego 12 / 6.8 and 12 / 10.8, citrus heights 10 / 10.2, sacramento 10-11 / 26-31, almost no clicks.
+- /san-jose/: new title/meta; city "minor remodel" online permit vs major remodel, bathroom inspection items (ducted 50 CFM fan, window not enough, vacancy-sensor light, smoke/CO), SJW hardness by source (7 / 9 / 21 gpg), ACS median 1976, Sourcewise (408) 350-3200 opt 1 verified; FAQ added.
+- /san-diego/: new title/meta; IB-203 no-plan permit conditions, 45-year historic review (about 10 business days), DS-6005 condo note, ACS median 1980 (49.8% built 1979 or earlier); FAQ added.
+- /sacramento/: new title/meta now names Citrus Heights; Citrus Heights permit chart (CHB0600) and remodel policy (CHB1805), Sacramento 2025 CCR hardness (4.9 gpg system avg), ACS for Sacramento and Citrus Heights, Area 4 phones/address; FAQ added.
+- No new post: CSLB deposit/cancellation is already on /hire-a-licensed-contractor/; a Medi-Cal asset-limit page needs DHCS letter 25-14, which blocked download tonight.
+Next: request indexing for the three URLs; Medi-Cal asset limit page once 25-14 is read; recheck CTR in 3-4 weeks.
