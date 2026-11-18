@@ -8,13 +8,14 @@ An Aging Safely Baths website. Walk-in tubs, roll-in and low-threshold showers, 
 
 - Phone 1-888-779-2284 (BATH), sales@agingsafelybaths.com, 7am to 8pm Mountain time, 7 days. BBB A+ accredited since 2012.
 - Process: quotes can start by phone or from photos. Once a customer chooses a tub or shower and places a deposit, a technician does a full in-person site visit (measurements, photos, options, questions) before installation day.
+- Published installed prices (Aging Safely Baths, after current promotions): walk-in tubs $15,250 to $20,000, roll-in showers $13,500 to $17,000; most installs take one day.
 - Original Medicare generally does not cover walk-in tubs; Medi-Cal waivers, VA HISA and IRS medical-expense rules may help.
 - Machine-readable business facts: https://www.agingsafelybaths.com/facts.json
 
 ## Pages
 
 - [Walk In Tubs California | One-Day Install or DIY Delivery](https://walkintubscalifornia.com/): California walk in tubs for seniors: one-day installation or delivery statewide. Compare sizes, hydrotherapy, drain speed and costs.
-- [Walk-In Tub Cost in California: 2026 Guide](https://walkintubscalifornia.com/walk-in-tub-cost-california/): What a walk-in tub costs in California: published national price ranges, the items that move a quote up or down, and questions to ask before you sign.
+- [Walk-In Tub Cost in California: 2026 Guide](https://walkintubscalifornia.com/walk-in-tub-cost-california/): What a walk-in tub costs in California: Aging Safely Baths published installed prices, national price ranges, the items that move a quote up or down, and questions to ask before you sign.
 - [Walk-In Tub or Shower Conversion in California](https://walkintubscalifornia.com/tub-vs-shower-options/): Walk-in tub, low-threshold shower or roll-in shower for a California home: who each suits, space needs, CA water rules, permits and funding differences.
 - [Walk-In Tub Installation Process in California](https://walkintubscalifornia.com/installation-process/): Step by step: what happens before, during and after a walk-in tub installation in a California home, from the first call to the first bath.
 - [Bathroom Fall Prevention in California](https://walkintubscalifornia.com/bathroom-fall-prevention/): Bathroom fall-prevention steps for older Californians from CDC and NIA guidance, plus California help such as Dignity at Home and Area Agencies on Aging.
@@ -33,6 +34,7 @@ An Aging Safely Baths website. Walk-in tubs, roll-in and low-threshold showers, 
 - [Walk-In Tubs San Diego | Local Guide for Families](https://walkintubscalifornia.com/san-diego/): Walk-in tubs for San Diego County homes: hard water and jet care, coastal ventilation, mobilehome parks, county fall prevention help and permit notes.
 - [Walk-In Tubs Orange County CA | Local Guide](https://walkintubscalifornia.com/orange-county/): Walk-in tubs for Orange County homes and HOAs: planned communities, Laguna Woods Village alteration rules, tract-home bathrooms and the OC Office on Aging.
 - [Walk-In Tubs Riverside & Inland Empire Guide](https://walkintubscalifornia.com/inland-empire/): Walk-in tubs for Riverside, San Bernardino and Inland Empire homes: upstairs primary baths, summer heat, 55+ communities and both county aging departments.
+- [Walk In Tubs Rancho Cordova, Arden-Arcade & North Highlands CA](https://walkintubscalifornia.com/sacramento-county-suburbs/): Suburban Sacramento County (Rancho Cordova, Arden-Arcade, North Highlands, Foothill Farms, Rio Linda, Carmichael, Fair Oaks, Antelope): $15,250 to $20,000 installed; unincorporated communities permit through Sacramento County (shower/tub enclosure replacement and water heaters need permits; Citizen Access portal); water hardness by provider (Golden State Water Arden system avg 160 ppm; SCWA North Service Area about 52 to 55 ppm); ranch-house checks; Sacramento VA Medical Center (Mather) for HISA.
 - [Walk In Tubs Sacramento CA | Citrus Heights to Elk Grove](https://walkintubscalifornia.com/sacramento/): Walk-in tubs for Sacramento-area homes: older central-city houses, suburban ranch homes, active-adult communities, valley heat and Agency on Aging Area 4.
 - [Walk-In Tubs San Francisco Bay Area | Guide](https://walkintubscalifornia.com/san-francisco-bay-area/): Walk-in tubs for San Francisco and East Bay, Peninsula and Marin homes: stairs over garages, Victorian flats, cool foggy bathrooms and local aging help.
 - [Walk In Tubs San Jose CA | Eichler & Silicon Valley Homes](https://walkintubscalifornia.com/san-jose/): Walk-in tubs for San Jose and Santa Clara County homes: Eichler radiant slabs, post-war ranch houses, mobilehome parks and Sourcewise aging services.
